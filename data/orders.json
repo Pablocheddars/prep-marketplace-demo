@@ -1,0 +1,128 @@
+[
+  {
+    "id": "OC-2026-052",
+    "client": "Cheddar's Angol",
+    "clientId": "client-001",
+    "date": "2026-04-27T08:15:00",
+    "total": 8400000,
+    "items": [
+      { "name": "Queso Cheddar Laminado 2.5kg", "qty": 12, "unit": "un", "price": 280000 },
+      { "name": "Pan Brioche Hamburguesa x12", "qty": 8, "unit": "un", "price": 180000 },
+      { "name": "Tocino Ahumado 1kg", "qty": 10, "unit": "un", "price": 220000 },
+      { "name": "Salsa BBQ 5L", "qty": 4, "unit": "un", "price": 150000 }
+    ],
+    "status": "nuevo",
+    "deliveryDate": "2026-04-28T07:00:00",
+    "notes": "Entrega antes de las 8am"
+  },
+  {
+    "id": "OC-2026-051",
+    "client": "Pizzería La Bottega",
+    "clientId": "client-002",
+    "date": "2026-04-27T07:45:00",
+    "total": 4200000,
+    "items": [
+      { "name": "Mozzarella Fresca 1kg", "qty": 15, "unit": "un", "price": 120000 },
+      { "name": "Harina 00 Caputo 25kg", "qty": 3, "unit": "un", "price": 85000 },
+      { "name": "Salsa Pomodoro 5L", "qty": 6, "unit": "un", "price": 95000 },
+      { "name": "Jamón Serrano 2kg", "qty": 4, "unit": "un", "price": 320000 },
+      { "name": "Aceite Oliva Extra Virgen 5L", "qty": 3, "unit": "un", "price": 180000 },
+      { "name": "Albahaca Fresca 100g", "qty": 20, "unit": "un", "price": 12000 }
+    ],
+    "status": "nuevo",
+    "deliveryDate": "2026-04-28T09:00:00",
+    "notes": ""
+  },
+  {
+    "id": "OC-2026-050",
+    "client": "Burger Stack Talcahuano",
+    "clientId": "client-003",
+    "date": "2026-04-26T16:30:00",
+    "total": 12800000,
+    "items": [
+      { "name": "Carne Angus Premium 5kg", "qty": 20, "unit": "un", "price": 350000 },
+      { "name": "Queso Cheddar Laminado 2.5kg", "qty": 8, "unit": "un", "price": 280000 },
+      { "name": "Pan Brioche Hamburguesa x12", "qty": 15, "unit": "un", "price": 180000 },
+      { "name": "Tocino Ahumado 1kg", "qty": 12, "unit": "un", "price": 220000 },
+      { "name": "Papas Congeladas 10kg", "qty": 8, "unit": "un", "price": 145000 },
+      { "name": "Salsa BBQ 5L", "qty": 5, "unit": "un", "price": 150000 },
+      { "name": "Cebolla Crispy 500g", "qty": 10, "unit": "un", "price": 65000 },
+      { "name": "Lechuga Hidropónica", "qty": 15, "unit": "un", "price": 18000 },
+      { "name": "Tomate Larga Vida", "qty": 10, "unit": "kg", "price": 25000 }
+    ],
+    "status": "nuevo",
+    "deliveryDate": "2026-04-28T06:30:00",
+    "notes": "Pedido urgente — evento fin de semana"
+  },
+  {
+    "id": "OC-2026-049",
+    "client": "Cheddar's Angol",
+    "clientId": "client-001",
+    "date": "2026-04-25T14:00:00",
+    "total": 6800000,
+    "items": [
+      { "name": "Carne Angus Premium 5kg", "qty": 10, "unit": "un", "price": 350000 },
+      { "name": "Queso Cheddar Laminado 2.5kg", "qty": 6, "unit": "un", "price": 280000 },
+      { "name": "Pan Brioche Hamburguesa x12", "qty": 5, "unit": "un", "price": 180000 },
+      { "name": "Papas Congeladas 10kg", "qty": 4, "unit": "un", "price": 145000 },
+      { "name": "Mayonesa Hellmanns 3.8kg", "qty": 3, "unit": "un", "price": 98000 },
+      { "name": "Salsa BBQ 5L", "qty": 3, "unit": "un", "price": 150000 }
+    ],
+    "status": "en_preparacion",
+    "deliveryDate": "2026-04-27T07:00:00",
+    "notes": ""
+  },
+  {
+    "id": "OC-2026-048",
+    "client": "Café Itaú",
+    "clientId": "client-004",
+    "date": "2026-04-25T10:20:00",
+    "total": 3100000,
+    "items": [
+      { "name": "Café Grano Colombia 1kg", "qty": 8, "unit": "un", "price": 185000 },
+      { "name": "Leche Entera 1L x12", "qty": 5, "unit": "un", "price": 156000 },
+      { "name": "Azúcar Rubia 5kg", "qty": 4, "unit": "un", "price": 42000 }
+    ],
+    "status": "en_transito",
+    "deliveryDate": "2026-04-27T08:00:00",
+    "notes": "Dejar en bodega trasera"
+  },
+  {
+    "id": "OC-2026-047",
+    "client": "Burger Stack Talcahuano",
+    "clientId": "client-003",
+    "date": "2026-04-23T09:00:00",
+    "total": 9400000,
+    "items": [
+      { "name": "Carne Angus Premium 5kg", "qty": 15, "unit": "un", "price": 350000 },
+      { "name": "Queso Cheddar Laminado 2.5kg", "qty": 10, "unit": "un", "price": 280000 },
+      { "name": "Pan Brioche Hamburguesa x12", "qty": 10, "unit": "un", "price": 180000 },
+      { "name": "Tocino Ahumado 1kg", "qty": 8, "unit": "un", "price": 220000 },
+      { "name": "Papas Congeladas 10kg", "qty": 6, "unit": "un", "price": 145000 },
+      { "name": "Cebolla Crispy 500g", "qty": 8, "unit": "un", "price": 65000 },
+      { "name": "Salsa BBQ 5L", "qty": 4, "unit": "un", "price": 150000 },
+      { "name": "Lechuga Hidropónica", "qty": 10, "unit": "un", "price": 18000 },
+      { "name": "Tomate Larga Vida", "qty": 8, "unit": "kg", "price": 25000 }
+    ],
+    "status": "entregado",
+    "deliveryDate": "2026-04-24T06:30:00",
+    "notes": ""
+  },
+  {
+    "id": "OC-2026-046",
+    "client": "Pizzería La Bottega",
+    "clientId": "client-002",
+    "date": "2026-04-22T11:30:00",
+    "total": 5200000,
+    "items": [
+      { "name": "Mozzarella Fresca 1kg", "qty": 20, "unit": "un", "price": 120000 },
+      { "name": "Harina 00 Caputo 25kg", "qty": 4, "unit": "un", "price": 85000 },
+      { "name": "Salsa Pomodoro 5L", "qty": 8, "unit": "un", "price": 95000 },
+      { "name": "Aceite Oliva Extra Virgen 5L", "qty": 4, "unit": "un", "price": 180000 },
+      { "name": "Albahaca Fresca 100g", "qty": 25, "unit": "un", "price": 12000 }
+    ],
+    "status": "entregado",
+    "deliveryDate": "2026-04-23T09:00:00",
+    "notes": ""
+  }
+]

@@ -1,0 +1,105 @@
+[
+  {
+    "id": "client-001",
+    "name": "Cheddar's Angol",
+    "type": "activo",
+    "segment": "Burger",
+    "monthlyAvg": 15200000,
+    "ordersMonth": 12,
+    "lastOrder": "2026-04-27T08:15:00",
+    "trend": [12.1, 13.5, 14.2, 14.8, 15.2],
+    "paymentTerms": "30 días",
+    "discount": 5,
+    "intelligence": {
+      "type": "recompra",
+      "message": "Pedido esperado mañana — probabilidad 92%",
+      "confidence": 0.92
+    }
+  },
+  {
+    "id": "client-002",
+    "name": "Pizzería La Bottega",
+    "type": "activo",
+    "segment": "Pizza",
+    "monthlyAvg": 9400000,
+    "ordersMonth": 8,
+    "lastOrder": "2026-04-27T07:45:00",
+    "trend": [8.2, 8.8, 9.0, 9.2, 9.4],
+    "paymentTerms": "15 días",
+    "discount": 3,
+    "intelligence": null
+  },
+  {
+    "id": "client-003",
+    "name": "Burger Stack Talcahuano",
+    "type": "activo",
+    "segment": "Burger",
+    "monthlyAvg": 22200000,
+    "ordersMonth": 15,
+    "lastOrder": "2026-04-26T16:30:00",
+    "trend": [18.5, 19.2, 20.1, 21.0, 22.2],
+    "paymentTerms": "30 días",
+    "discount": 8,
+    "intelligence": null
+  },
+  {
+    "id": "client-004",
+    "name": "Café Itaú",
+    "type": "activo",
+    "segment": "Café",
+    "monthlyAvg": 6200000,
+    "ordersMonth": 6,
+    "lastOrder": "2026-04-25T10:20:00",
+    "trend": [5.5, 5.8, 6.0, 6.1, 6.2],
+    "paymentTerms": "Contado",
+    "discount": 0,
+    "intelligence": null
+  },
+  {
+    "id": "client-005",
+    "name": "Sushi Nori Concepción",
+    "type": "activo",
+    "segment": "Sushi",
+    "monthlyAvg": 11800000,
+    "ordersMonth": 10,
+    "lastOrder": "2026-04-24T15:00:00",
+    "trend": [10.2, 10.8, 11.0, 11.5, 11.8],
+    "paymentTerms": "15 días",
+    "discount": 4,
+    "intelligence": null
+  },
+  {
+    "id": "client-006",
+    "name": "Operador anónimo (lead)",
+    "type": "lead",
+    "segment": "Fast Casual",
+    "monthlyAvg": 0,
+    "ordersMonth": 0,
+    "lastOrder": null,
+    "trend": [],
+    "paymentTerms": "-",
+    "discount": 0,
+    "intelligence": {
+      "type": "oportunidad",
+      "message": "Nuevo local en Concepción centro — potencial $8M/mes",
+      "confidence": 0.65
+    }
+  },
+  {
+    "id": "client-007",
+    "name": "Food Pxrn",
+    "type": "churn",
+    "segment": "Burger",
+    "monthlyAvg": 4500000,
+    "ordersMonth": 0,
+    "lastOrder": "2026-04-13T09:30:00",
+    "trend": [6.2, 5.8, 5.0, 4.5, 0],
+    "paymentTerms": "30 días",
+    "discount": 3,
+    "intelligence": {
+      "type": "churn",
+      "message": "14 días sin compras — riesgo alto de pérdida",
+      "confidence": 0.78
+    }
+  }
+]

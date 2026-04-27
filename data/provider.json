@@ -1,0 +1,20 @@
+{
+  "name": "ICB Food Service",
+  "rut": "76.543.210-K",
+  "contact": "Albert Fresco",
+  "role": "Subgerente Comercial",
+  "email": "albert.fresco@icbfood.cl",
+  "phone": "+56 9 8765 4321",
+  "erp": "relBase",
+  "lastSync": "2026-04-27T10:30:00",
+  "plan": "Pro",
+  "totalClients": 203,
+  "activeClients": 187,
+  "rating": 4.8,
+  "monthlyRevenue": 1280000000,
+  "monthlyOrders": 1420,
+  "avgTicket": 4200000,
+  "uncapturedDemand": 380000000,
+  "crossSellPotential": 85000000,
+  "tenderPotential": 120000000
+}
