@@ -1,0 +1,44 @@
+[
+  {
+    "id": "offer-001",
+    "name": "Pack Burger Premium",
+    "description": "Carne Angus + Cheddar + Pan Brioche — descuento 12% por volumen",
+    "discount": 12,
+    "type": "bundle",
+    "status": "activa",
+    "startDate": "2026-04-15",
+    "endDate": "2026-05-15",
+    "targetSegment": "Burger",
+    "clients": 3,
+    "revenue": 18500000,
+    "conversionRate": 68
+  },
+  {
+    "id": "offer-002",
+    "name": "Promo Pizzera",
+    "description": "Mozzarella + Harina 00 — 8% descuento para pedidos >$3M",
+    "discount": 8,
+    "type": "threshold",
+    "status": "activa",
+    "startDate": "2026-04-20",
+    "endDate": "2026-05-20",
+    "targetSegment": "Pizza",
+    "clients": 1,
+    "revenue": 4200000,
+    "conversionRate": 100
+  },
+  {
+    "id": "offer-003",
+    "name": "Temporada Otoño",
+    "description": "Salsas premium — 10% en compras recurrentes",
+    "discount": 10,
+    "type": "loyalty",
+    "status": "finalizada",
+    "startDate": "2026-03-01",
+    "endDate": "2026-03-31",
+    "targetSegment": "Todos",
+    "clients": 12,
+    "revenue": 8900000,
+    "conversionRate": 45
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": "lic-001",
+    "title": "Proveedor lácteos — Cadena 15 locales Región Metropolitana",
+    "category": "Lácteos",
+    "estimatedMonthly": 45000000,
+    "deadline": "2026-05-10",
+    "status": "abierta",
+    "requirements": "Quesos, crema, mantequilla. Entrega 3x/semana. Certificación HACCP.",
+    "matchScore": 92
+  },
+  {
+    "id": "lic-002",
+    "title": "Insumos burger — Dark kitchen 5 marcas Santiago",
+    "category": "Multi-categoría",
+    "estimatedMonthly": 28000000,
+    "deadline": "2026-05-15",
+    "status": "abierta",
+    "requirements": "Carnes, panes, salsas, congelados. Entrega diaria. Factura a 30 días.",
+    "matchScore": 88
+  },
+  {
+    "id": "lic-003",
+    "title": "Salsas y condimentos — Casino corporativo 800 almuerzos/día",
+    "category": "Salsas",
+    "estimatedMonthly": 12000000,
+    "deadline": "2026-05-05",
+    "status": "abierta",
+    "requirements": "Salsas, aderezos, especias. Granel. Certificación sanitaria vigente.",
+    "matchScore": 75
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "cs-001",
+    "type": "expand",
+    "client": "Cheddar's Angol",
+    "clientId": "client-001",
+    "product": "Salsa Trufa 250ml",
+    "reason": "Restaurantes burger premium con ticket >$12K adoptan trufa — match 89%",
+    "potentialMonthly": 2400000,
+    "confidence": 0.89,
+    "status": "pendiente"
+  },
+  {
+    "id": "cs-002",
+    "type": "expand",
+    "client": "Burger Stack Talcahuano",
+    "clientId": "client-003",
+    "product": "Pan Pretzel x8",
+    "reason": "Top burger chains en Chile están adoptando pan pretzel — tendencia +45% Q1",
+    "potentialMonthly": 3600000,
+    "confidence": 0.82,
+    "status": "pendiente"
+  },
+  {
+    "id": "cs-003",
+    "type": "acquire",
+    "client": "Operador anónimo (lead)",
+    "clientId": "client-006",
+    "product": "Catálogo completo Burger",
+    "reason": "Nuevo local fast casual en Concepción centro — perfil similar a Burger Stack",
+    "potentialMonthly": 8000000,
+    "confidence": 0.65,
+    "status": "pendiente"
+  },
+  {
+    "id": "cs-004",
+    "type": "recover",
+    "client": "Food Pxrn",
+    "clientId": "client-007",
+    "product": "Pack reactivación -15%",
+    "reason": "14 días sin compras, oferta personalizada puede reactivar",
+    "potentialMonthly": 4500000,
+    "confidence": 0.45,
+    "status": "pendiente"
+  }
+]

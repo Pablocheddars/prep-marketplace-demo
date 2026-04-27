@@ -1,0 +1,29 @@
+{
+  "revenueByMonth": [
+    { "month": "Nov", "value": 980000000 },
+    { "month": "Dic", "value": 1120000000 },
+    { "month": "Ene", "value": 1050000000 },
+    { "month": "Feb", "value": 1180000000 },
+    { "month": "Mar", "value": 1220000000 },
+    { "month": "Abr", "value": 1280000000 }
+  ],
+  "topProducts": [
+    { "name": "Carne Angus Premium 5kg", "revenue": 245000000, "share": 19.1 },
+    { "name": "Queso Cheddar Laminado 2.5kg", "revenue": 198000000, "share": 15.5 },
+    { "name": "Pan Brioche Hamburguesa x12", "revenue": 156000000, "share": 12.2 },
+    { "name": "Tocino Ahumado 1kg", "revenue": 132000000, "share": 10.3 },
+    { "name": "Mozzarella Fresca 1kg", "revenue": 108000000, "share": 8.4 }
+  ],
+  "clientDistribution": [
+    { "segment": "Burger", "count": 89, "revenue": 620000000 },
+    { "segment": "Pizza", "count": 34, "revenue": 210000000 },
+    { "segment": "Sushi", "count": 28, "revenue": 180000000 },
+    { "segment": "Café", "count": 31, "revenue": 150000000 },
+    { "segment": "Otros", "count": 21, "revenue": 120000000 }
+  ],
+  "demandForecast": [
+    { "month": "May", "projected": 1350000000, "seasonal": "Día de la Hamburguesa +35%" },
+    { "month": "Jun", "projected": 1180000000, "seasonal": null },
+    { "month": "Jul", "projected": 1220000000, "seasonal": "Vacaciones invierno" }
+  ]
+}

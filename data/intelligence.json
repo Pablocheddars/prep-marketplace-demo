@@ -1,0 +1,38 @@
+[
+  {
+    "id": "intel-001",
+    "type": "recompra",
+    "icon": "RefreshCw",
+    "title": "Recompra predicha",
+    "message": "Cheddar's Angol pide mañana — probabilidad 92%",
+    "client": "Cheddar's Angol",
+    "clientId": "client-001",
+    "confidence": 0.92,
+    "action": "Preparar pedido sugerido",
+    "priority": "high"
+  },
+  {
+    "id": "intel-002",
+    "type": "churn",
+    "icon": "AlertTriangle",
+    "title": "Riesgo de pérdida",
+    "message": "Food Pxrn — 14 días sin compras, tendencia negativa",
+    "client": "Food Pxrn",
+    "clientId": "client-007",
+    "confidence": 0.78,
+    "action": "Contactar con oferta personalizada",
+    "priority": "high"
+  },
+  {
+    "id": "intel-003",
+    "type": "estacional",
+    "icon": "Calendar",
+    "title": "Demanda estacional",
+    "message": "Día de la Hamburguesa 28 mayo — +35% demanda estimada",
+    "client": null,
+    "clientId": null,
+    "confidence": 0.85,
+    "action": "Revisar stock de carne y quesos",
+    "priority": "medium"
+  }
+]
